@@ -125,13 +125,13 @@ class DraggableEventWrapper extends React.Component {
       }
 
       /*
-      * props.children is the singular <Event> component.
-      * BigCalendar positions the Event abolutely and we
-      * need the anchors to be part of that positioning.
-      * So we insert the anchors inside the Event's children
-      * rather than wrap the Event here as the latter approach
-      * would lose the positioning.
-      */
+       * props.children is the singular <Event> component.
+       * BigCalendar positions the Event abolutely and we
+       * need the anchors to be part of that positioning.
+       * So we insert the anchors inside the Event's children
+       * rather than wrap the Event here as the latter approach
+       * would lose the positioning.
+       */
       const childrenWithAnchors = (
         <div className="rbc-addons-dnd-resizable">
           {StartAnchor}

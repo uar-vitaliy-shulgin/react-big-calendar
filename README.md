@@ -1,7 +1,7 @@
 # react-big-calendar
 
 An events calendar component built for React and made for modern browsers (read: IE10+) and uses flexbox over the classic tables-ception approach.
-
+test text
 [**DEMO and Docs**](http://intljusticemission.github.io/react-big-calendar/examples/index.html)
 
 Inspired by [Full Calendar](http://fullcalendar.io/).
@@ -15,8 +15,8 @@ element has a height, or the calendar won't be visible.
 
 ## Starters
 
-* [react-big-calendar](https://github.com/arecvlohe/rbc-starter)
-* [react-big-calendar with drag and drop](https://github.com/arecvlohe/rbc-with-dnd-starter)
+- [react-big-calendar](https://github.com/arecvlohe/rbc-starter)
+- [react-big-calendar with drag and drop](https://github.com/arecvlohe/rbc-with-dnd-starter)
 
 ## Run examples locally
 
@@ -27,7 +27,7 @@ $ npm install
 $ npm run examples
 ```
 
-* Open [localhost:3000/examples/index.html](http://localhost:3000/examples/index.html).
+- Open [localhost:3000/examples/index.html](http://localhost:3000/examples/index.html).
 
 ### Localization and Date Formatting
 
